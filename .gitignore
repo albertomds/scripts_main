@@ -1,0 +1,8 @@
+.DS_Store
+
+# Local pDynamo3 data and generated tutorial files.
+scripts/pDynamo3/00_preparation/
+scripts/pDynamo3/*/inputs/*
+scripts/pDynamo3/*/outputs/*
+!scripts/pDynamo3/*/inputs/.gitkeep
+!scripts/pDynamo3/*/outputs/.gitkeep
